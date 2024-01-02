@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ms-azuretools.azure-dev",
+        "ms-azuretools.vscode-bicep",
+        "ms-azuretools.vscode-docker",
+        "ms-azuretools.vscode-azurecontainerapps",
+        "GitHub.vscode-github-actions"
+    ]
+}
